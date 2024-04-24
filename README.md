@@ -5,9 +5,6 @@
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: renqing.cuomao@epfl.ch
 
-![](https://github-readme-stats.vercel.app/api?username=renqingcm&show_icons=true&theme=transparent)
-
-
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
