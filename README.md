@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Renqing.
+### Hi there 👋, I'm Renqing.
 
 - 🔭 I’m currently working on projects related to NLP, Web Development and Reinforcement Learning.
 - 🌱 I’m currently learning Everything I like.
