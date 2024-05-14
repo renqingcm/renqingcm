@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on projects related to NLP, Web Development and Reinforcement Learning.
 - 🌱 I’m currently learning Everything I like.
-- 💬 Ask me about anything related to Java/Python.
+- 💬 Passionate about natural language processing and machine learning, particularly in deep learning approaches for natural language understanding problems.
 - 📫 How to reach me: renqing.cuomao@epfl.ch
 
 ### My Skill Set
