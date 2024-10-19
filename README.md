@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Renqing.
 
-- 🔭 I’m currently working on projects related to NLP, Web Development and Reinforcement Learning.
-- 🌱 I’m currently learning Everything I like.
+- 🔭 I’m working on projects related to NLP, Web Development and Reinforcement Learning.
+- 🌱 I’m currently learning everything I like.
 - 💬 Passionate about natural language processing and machine learning, particularly in deep learning approaches for natural language understanding problems.
 - 📫 How to reach me: renqing.cuomao@epfl.ch
 
