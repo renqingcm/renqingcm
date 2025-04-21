@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently a Master student studying Computer Science at EPFL.
-- 💬 Passionate about machine learning and multilingual natural language processing, particularly in deep learning approaches for natural language understanding problems.
+- 💬 I'm passionate about machine learning and multilingual natural language processing, particularly in deep learning approaches for natural language understanding problems.
 - 📫 How to reach me: renqing.cuomao@epfl.ch
 
 ### My Skill Set
